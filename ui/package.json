@@ -112,7 +112,7 @@
     "text-encoder-lite": "1.0.0",
     "walk-sync": "^0.3.3",
     "xstate": "^3.3.3",
-    "yargs-parser": "^10.0.0"
+    "yargs-parser": "^13.1.2"
   },
   "engines": {
     "node": "6.* || 8.* || >= 10.*"
